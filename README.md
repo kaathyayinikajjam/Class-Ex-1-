@@ -1,13 +1,15 @@
-# Class-Ex-1-
+
 a = int(input("Enter input 1: "))
 b = int(input("Enter input 2: "))
-sum = a + b
+c = int(input("Enter input 3: "))
+
+sum = a + b + c
 print(sum)
-sub = a - b
+sub = a - b -c
 print(sub)
-multiply = a*b
+multiply = a*b*c
 print(multiply)
-divide = a/b
+divide = (a/b)/c
 print(divide)
-power = a**b
+power = (a*b)**c
 print(power)
